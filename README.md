@@ -1,16 +1,92 @@
-# React + Vite
+# Sarika Malhotra — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website showcasing my projects, skills, experience, and journey as a Full-Stack Developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://sarika-portfolio-chi.vercel.app
 
-## React Compiler
+## 👩‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I'm **Sarika Malhotra**, a BCA student and Full-Stack Developer focused on building clean, responsive, and practical web applications.
 
-## Expanding the ESLint configuration
+I'm currently strengthening my development skills while working with the MERN stack and preparing for software development opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- PostgreSQL
+- SQL
+
+### Other Tools
+- Git
+- GitHub
+- Vercel
+- Render
+- Postman
+- VS Code
+
+### Animation & UI
+- Framer Motion
+- GSAP
+- Lucide Icons
+- shadcn/ui
+
+## 📂 Featured Projects
+
+### 1. Hotel Management
+A responsive hotel management web application built with React and JavaScript.
+
+**Tech:** React, JavaScript, Vercel
+
+🔗 [Live Demo](https://hotel-management-ten-pi.vercel.app/)
+
+### 2. Namma PG
+A full-stack PG management platform for tenants, owners and administrators.
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+🔗 [Live Demo](https://nammapg-app.vercel.app/)
+
+### 3. ChaiForms
+A Typeform-inspired form builder for creating forms, collecting responses and viewing analytics.
+
+**Tech:** Next.js, React, Node.js, PostgreSQL
+
+🔗 [Live Demo](https://chaiforms-app.vercel.app/)
+
+## 📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Problem Solving
+- Full-Stack Development
+- Technical Interview Preparation
+
+## 🎯 Career Goal
+
+My long-term goal is to grow as a strong software engineer by building real-world products, improving my problem-solving skills, and gaining experience with scalable software systems.
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/sarikamalhotra-code
+- **LinkedIn:** https://www.linkedin.com/in/sarikamalhotra-dev
+- **Email:** malhotrasarika789@gmail.com
+
+## 📄 License
+
+This project is for personal portfolio and educational purposes.
